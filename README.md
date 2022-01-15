@@ -1,5 +1,5 @@
 # Tinkoff fintech autumn 2021 "Golang developer" coursework.
-# Desctiption
+# Description
 
 ----
 This system allows you to create users for automatic submission of applications through JWT authorization. The robot makes all buying and selling decisions based on the Donchian channel indicator. Each subscription to a currency pair is unique and has no analogues: if the pair is already tracked, then users subscribe to it.
